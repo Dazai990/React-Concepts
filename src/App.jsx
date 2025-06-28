@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-     {/* <Count/> */}
+      <Count/>
      <PersonForm1/>
      <PersonForm2/>
         
