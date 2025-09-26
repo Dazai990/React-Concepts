@@ -4,16 +4,18 @@
 import './App.css'
 import PersonForm1 from './components/01-react-state/PersonForm'
 import PersonForm2 from './components/01-react-state/PersonForm2'
+import Context from './components/03-Context/UseContext'
 
 
 function App() {
 
   return (
     <div>
-      <Count/>
+      {/* <Count/>
      <PersonForm1/>
-     <PersonForm2/>
-        
+     <PersonForm2/> */}
+     <Context/>
+    
     </div>
   )
 }
